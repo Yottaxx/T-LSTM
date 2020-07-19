@@ -18,18 +18,18 @@
 [https://arxiv.org/pdf/1907.03227.pdf](https://arxiv.org/pdf/1907.03227.pdf)<br>
 
 ## T-LSTM/触发状态长短期记忆网络
-通过拓展lstm视野域，加入通过GCN提取的trigger-state。
+通过拓展lstm视野域，加入通过GCN提取的trigger-state。<br>
 事件真实性预测回归架构
 
 ## Experiment/实验
 ### 预处理
-torchtext glove-42b-300d
+torchtext glove-42b-300d<br>
 transformers bert-large-base
 ### 环境
-linux 16.04
-4*titan xp
-python 3.6
-pytorch 1.4 cuda10.1
+linux 16.04<br>
+4*titan xp<br>
+python 3.6<br>
+pytorch 1.4 cuda10.1<br>
 ## Hyperparameter optimization/超参数优化
 ### 工具：NNI
 #### Tuner/调优器
