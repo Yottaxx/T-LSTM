@@ -14,8 +14,8 @@
 
 
 ## Baseline/基线模型
-[https://arxiv.org/pdf/1804.02472.pdf](https://arxiv.org/pdf/1804.02472.pdf)
-[https://arxiv.org/pdf/1907.03227.pdf](https://arxiv.org/pdf/1907.03227.pdf)
+[https://arxiv.org/pdf/1804.02472.pdf](https://arxiv.org/pdf/1804.02472.pdf)<br>
+[https://arxiv.org/pdf/1907.03227.pdf](https://arxiv.org/pdf/1907.03227.pdf)<br>
 
 ## T-LSTM/触发状态长短期记忆网络
 通过拓展lstm视野域，加入通过GCN提取的trigger-state。
